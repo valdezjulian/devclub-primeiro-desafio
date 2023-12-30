@@ -76,6 +76,8 @@ footer {
   margin-top: 75px;
   padding: 30px;
   background: #6FBF44;
+  text-align: center;
+  color: #161A49;
 }
 
 @media screen and (max-width: 900px) {
@@ -137,6 +139,10 @@ footer {
         margin: 26px auto;
         width: auto;
         text-align: center;
+    }
+
+    footer {
+    margin-top: 355px;
     }
 
 
