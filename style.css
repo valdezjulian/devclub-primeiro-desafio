@@ -72,6 +72,12 @@ p {
     cursor: pointer;
 }
 
+footer {
+  margin-top: 75px;
+  padding: 30px;
+  background: #6FBF44;
+}
+
 @media screen and (max-width: 900px) {
     header {
         margin: 0;
